@@ -2,7 +2,7 @@
   "name": "ckeditor-super-build",
   "author": "atishaykhare123@gmail.com",
   "description": "A custom CKEditor 5 super  build  with all the free features to use.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "license": "SEE LICENSE IN LICENSE.md",
   "private": false,
   "main": "./build/ckeditor.js",
